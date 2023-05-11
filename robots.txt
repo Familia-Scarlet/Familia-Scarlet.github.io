@@ -1,5 +1,0 @@
-
-User-agent:*
-Disallow:
-
-Sitemap: https://familia-scarlet.github.io/sitemap.xml
