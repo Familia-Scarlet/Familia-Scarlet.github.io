@@ -1,1 +1,0 @@
-import{_ as t,X as o,Y as s,Z as e}from"./framework-3d5a2a18.js";const _="/assets/截图_20230324140620-a8473f7e.png",n={},c=e("p",null,"这张是相对路径",-1),a=e("figure",null,[e("img",{src:_,alt:"hero",tabindex:"0",loading:"lazy"}),e("figcaption",null,"hero")],-1),l=[c,a];function r(i,d){return o(),s("div",null,l)}const u=t(n,[["render",r],["__file","测试.html.vue"]]);export{u as default};
