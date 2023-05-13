@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-2c98befe","path":"/blogs/ruankao/ruankao.html","title":"","lang":"en-US","frontmatter":{},"headers":[],"git":{"createdTime":1683830865000,"updatedTime":1683830865000,"contributors":[{"name":"Familia","email":"1692662759@qq.com","commits":1}]},"filePathRelative":"blogs/软考/软考.md"}');export{e as data};
