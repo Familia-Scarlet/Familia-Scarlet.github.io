@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-46bc2f33","path":"/blog/qianduan/WebAPI.html","title":"WebAPI","lang":"en-US","frontmatter":{"title":"WebAPI","date":"2020-01-01T00:00:00.000Z"},"headers":[{"level":2,"title":"基本认知","slug":"基本认知","link":"#基本认知","children":[]}],"git":{"createdTime":null,"updatedTime":null,"contributors":[]},"filePathRelative":"blog/前端/WebAPI.md"}');export{e as data};
