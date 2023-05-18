@@ -1,1 +1,0 @@
-import{_}from"./plugin-vue_export-helper-c27b6911.js";import{o as e,c as t,a as o}from"./app-7003ff35.js";const c={},s=o("p",null,"大小一律都压缩到长*宽*1B/4",-1),n=[s];function r(a,l){return e(),t("div",null,n)}const m=_(c,[["render",r],["__file","网站图片压缩大小.html.vue"]]);export{m as default};
