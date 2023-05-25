@@ -2,4 +2,4 @@
 User-agent:*
 Disallow:
 
-Sitemap: https://familia-scarlet.github.io/sitemap.xml
+Sitemap: https://fumilia.github.io/sitemap.xml
