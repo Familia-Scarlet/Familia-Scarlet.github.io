@@ -2,4 +2,4 @@
 User-agent:*
 Disallow:
 
-Sitemap: https://fumilia.github.io/sitemap.xml
+Sitemap: https://familiar.github.io/sitemap.xml
