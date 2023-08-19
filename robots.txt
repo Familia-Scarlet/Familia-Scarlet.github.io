@@ -2,4 +2,4 @@
 User-agent:*
 Disallow:
 
-Sitemap: https://familiar.github.io/sitemap.xml
+Sitemap: https://familior.github.io/sitemap.xml
