@@ -1,0 +1,1 @@
+import{_ as e,o as _,c as t,b as c}from"./app-ffedd801.js";const o={},s=c("p",null,"建议使用中文和英文字符，避免使用+-=等符号。",-1),n=[s];function r(a,l){return _(),t("div",null,n)}const f=e(o,[["render",r],["__file","文章命名.html.vue"]]);export{f as default};
