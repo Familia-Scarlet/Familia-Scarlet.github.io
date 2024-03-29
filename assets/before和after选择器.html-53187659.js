@@ -1,1 +1,0 @@
-import{_ as t,o,c as _,b as e}from"./app-09c9e424.js";const r={},c=e("p",null,"before和after伪类是和指定的类在同一个图层的，这两的意思就是在前和在后，是平面上的前后，而非z轴上的前后。",-1),s=e("p",null,"对after和before这两个伪元素还不够理解，他们的图层和原元素的背景图层是如何排列的，这一点不清楚。",-1),n=[c,s];function a(f,l){return o(),_("div",null,n)}const i=t(r,[["render",a],["__file","before和after选择器.html.vue"]]);export{i as default};
